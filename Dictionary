@@ -1,0 +1,13 @@
+Nba_Dictionary ={
+
+    'James harden':'Basketball player, age , 33, philadelphia 76ers, SG',
+    'Stephen curry':'Basketball player, age, 35, Golden state warriors, PG',
+    'lebron james':'Basketball player, age, 38, LA lakers, SF',
+    'Joel embiid':'Basketball player, age, 29, philadelphia 76ers, center',
+    'Jamal murry':'Basketball player, age, 26, Denver nuggets, PG/SG'
+
+}
+
+print(Nba_Dictionary)
+print(Nba_Dictionary)
+print('James harden' is Nba_Dictionary)
